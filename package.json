@@ -1,0 +1,14 @@
+{
+  "name": "cli-node",
+  "version": "1.0.0",
+  "description": "",
+  "preferGlobal": true,
+  "bin": {
+    "search-files": "./bin/search-files.cli"
+  },
+  "files": [
+    "./bin"
+  ],
+  "author": "",
+  "license": "ISC"
+}
